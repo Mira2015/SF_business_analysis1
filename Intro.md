@@ -7,7 +7,7 @@
 
 
 ### Summary :
-In this analysis, I will dive into the dataset, which includes the locations of businesses that pay taxes to the city and county of SF. I want to derive insights from this dataset and learn which industries are most popular and have room for potential growth in SF. Which areas are popular for people to have their office? 
+In this analysis, I will dive into the dataset, which includes the locations of businesses that pay taxes to the city and county of San Francisco. I want to derive insights from this dataset and learn which industries are most popular and have room for potential growth in San Francisco. Which areas are popular for people to have their office? 
 
 ### Main Findings : 
 
