@@ -1,6 +1,6 @@
 # SF_business_analysis
 # Data-Visualization
-![alt text]()
+![alt text](https://github.com/Mira2015/SF_business_analysis1/blob/master/SF_bus_visual%20.png)
 
 
 
@@ -17,6 +17,7 @@ Seaborn 0.8.0
 pandas 0.22.0
 
 
-## Data source : (https://www.google.com)
+## Data source : ()
+
 <br>Reference : https://expandedramblings.com/index.php/starbucks-statistics/
   
